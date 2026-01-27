@@ -43,7 +43,10 @@
 </div>
 
 ###
+
 <h2>👯 Check out some of my friend!</h2>
+
+###
 
 <table>
   <thead>
@@ -60,6 +63,12 @@
   </tbody>
 </table>
 
+###
+
+<h2>My Stats!</h2>
+
+###
+
 <p style="width:100%;">
   <img
     align="center"
@@ -75,12 +84,6 @@
     alt="holyholical top languages"
   />
 </p>
-
-
-
-###
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph-dark.svg">
