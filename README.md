@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 </h1>
 
 ###
 
-<p align="left">My name is holy and I'm a developer from Europe</p>
+<p align="left">My name is holy and </p>
 
 ###
 
@@ -41,6 +41,51 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
+
+###
+<h2>👯 Check out some of my friend!</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th><a href="https://github.com/rewindthetime">rewind</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/251724478" width="64" height="64" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p style="width:100%;">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=holyholical&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12"
+    alt="holyholical GitHub stats"
+  />
+</p>
+
+<p style="width:100%;">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyholical&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12"
+    alt="holyholical top languages"
+  />
+</p>
+
+<p style="width:100%;">
+  <img
+    align="left"
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2366&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark&border_radius=12&border_color=4C8EDA"
+    alt="holyholical Hackatime stats"
+  />
+</p>
+
+
+###
 
 ###
 
