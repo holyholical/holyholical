@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is holy!</p>
+<p align="left">I build web apps, tools, scripts, and whatever else sounds fun at the time.</p>
 
 ###
 
