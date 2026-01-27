@@ -44,7 +44,7 @@
 
 ###
 
-<h2>👯 Check out some of my friend!</h2>
+<h2>👯 Check out my friend!</h2>
 
 ###
 
