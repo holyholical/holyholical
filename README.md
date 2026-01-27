@@ -76,13 +76,6 @@
   />
 </p>
 
-<p style="width:100%;">
-  <img
-    align="left"
-    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=2366&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark&border_radius=12&border_color=4C8EDA"
-    alt="holyholical Hackatime stats"
-  />
-</p>
 
 
 ###
