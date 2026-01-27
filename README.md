@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is holy and </p>
+<p align="left">My name is holy!</p>
 
 ###
 
