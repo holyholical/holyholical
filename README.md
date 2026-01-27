@@ -77,6 +77,8 @@
   />
 </p>
 
+###
+
 <p style="width:100%;">
   <img
     align="center"
@@ -84,6 +86,8 @@
     alt="holyholical top languages"
   />
 </p>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph-dark.svg">
