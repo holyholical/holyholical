@@ -47,6 +47,7 @@
 <h2>👷 Check out what I'm currently working on</h2>
 
 - [holyholical/still](https://github.com/holyholical/still) - A distraction-free notes app for capturing thoughts and ideas. (today)
+- [holyholical/hush](https://github.com/holyholical/hush) - A lightweight DLL injector built for simplicity and control. Designed to load dynamic libraries into running processes with minimal overhead, making it useful for development, debugging, and controlled experimentation. (today)
 - [holyholical/pathxio](https://github.com/holyholical/pathxio) - A safety-first wrapper around Python filesystem operations. (1 day ago)
 - [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (2 weeks ago)
 
