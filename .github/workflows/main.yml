@@ -2,7 +2,7 @@ name: Update README and Pacman Graph
 
 on:
   schedule: 
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *"   # every 3 hours (UTC)
   workflow_dispatch: 
   push:
     branches:
@@ -17,13 +17,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        
+        uses: actions/checkout@v3
+
       - name: Generate README
         run: |
           docker run --rm \
             -v ${{ github.workspace }}:/data \
             -w /data \
+            -e GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} \
             cyteon/markscribe \
             -write README.md templates/readme.tpl
 
@@ -32,10 +33,13 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Push README and Pacman graph
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: .
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+          git add README.md pacman-contribution-graph.svg
+          git commit -m "Update README and Pacman graph" || echo "No changes to commit"
+          git push -u origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
