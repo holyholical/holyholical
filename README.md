@@ -48,8 +48,7 @@
 
 - [holyholical/still](https://github.com/holyholical/still) - A distraction-free notes app for capturing thoughts and ideas. (today)
 - [holyholical/pathxio](https://github.com/holyholical/pathxio) - A safety-first wrapper around Python filesystem operations. (1 day ago)
-- [holyholical/og-account-showcase](https://github.com/holyholical/og-account-showcase) -  (1 week ago)
-- [holyholical/share-safe-notes](https://github.com/holyholical/share-safe-notes) -  (2 weeks ago)
+- [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (2 weeks ago)
 
 ###
 
