@@ -44,11 +44,10 @@
 
 ###
 
-<h2>📌 Recent Commits</h2>
-
-{{ range recentCommits 6 }}
-- {{ .Message }} ({{ .Repo }})
-{{ end }}
+<h2>👷 Check out what I'm currently working on</h2>
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
 ###
 
