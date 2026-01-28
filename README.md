@@ -71,7 +71,7 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api?username=holyholical&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12"
+  src="https://github-readme-stats.vercel.app/api?username=holyholical&theme=github_dark&show_icons=true&border_color=4C8EDA&border_radius=12"
   alt="holyholical GitHub stats"
 />
 
