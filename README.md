@@ -69,23 +69,18 @@
 
 ###
 
-<p style="width:100%;">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=holyholical&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12"
-    alt="holyholical GitHub stats"
-  />
-</p>
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api?username=holyholical&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&include_all_commits=true&border_radius=12"
+  alt="holyholical GitHub stats"
+/>
 
 ###
-
-<p style="width:100%;">
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyholical&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12"
-    alt="holyholical top languages"
-  />
-</p>
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyholical&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12"
+  alt="holyholical top languages"
+/>
 
 ###
 
