@@ -44,10 +44,10 @@
 
 ###
 
-<h2>📌 Recent Activity</h2>
+<h2>📌 Recent Commits</h2>
 
-{{ range recentActivity 6 }}
-- {{ . }}
+{{ range recentCommits 6 }}
+- {{ .Message }} ({{ .Repo }})
 {{ end }}
 
 ###
