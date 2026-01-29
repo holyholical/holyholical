@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I build web apps, tools, scripts, and whatever else sounds fun at the time.</p>
+<p align="left">🛠️ I build web apps, tools, scripts, and whatever else sounds fun at the time.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🔍 About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">👾 I code with</h2>
 
 ###
 
@@ -44,14 +44,14 @@
 
 ###
 
-<h2>👷 Check out what I'm currently working on</h2>
+<h2>👨‍💻 Check out what I'm currently working on</h2>
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 ###
 
-<h2>👯 Check out my friend!</h2>
+<h2>🫂 Check out my friend!</h2>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h2>My Stats!</h2>
+<h2>📊 My Stats!</h2>
 
 ###
 
