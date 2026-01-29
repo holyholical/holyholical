@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I build web apps, tools, scripts, and whatever else sounds fun at the time.</p>
+<p align="left">🛠️ I build web apps, tools, scripts, and whatever else sounds fun at the time.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🔍 About me</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">👾 I code with</h2>
 
 ###
 
@@ -44,8 +44,9 @@
 
 ###
 
-<h2>👷 Check out what I'm currently working on</h2>
+<h2>👨‍💻 Check out what I'm currently working on</h2>
 
+- [holyholical/Console-Snake](https://github.com/holyholical/Console-Snake) - A classic Snake-style terminal game where you control the snake to collect fruit, grow in length, and rack up points. Fully playable in the terminal with simple controls and a fun scoring system. (today)
 - [holyholical/hush](https://github.com/holyholical/hush) - A lightweight DLL injector built for simplicity and control. Designed to load dynamic libraries into running processes with minimal overhead, making it useful for development, debugging, and controlled experimentation. (today)
 - [holyholical/still](https://github.com/holyholical/still) - A distraction-free notes app for capturing thoughts and ideas. (1 day ago)
 - [holyholical/pathxio](https://github.com/holyholical/pathxio) - A safety-first wrapper around Python filesystem operations. (2 days ago)
@@ -53,7 +54,7 @@
 
 ###
 
-<h2>👯 Check out my friend!</h2>
+<h2>🫂 Check out my friend!</h2>
 
 ###
 
@@ -74,7 +75,7 @@
 
 ###
 
-<h2>My Stats!</h2>
+<h2>📊 My Stats!</h2>
 
 ###
 
