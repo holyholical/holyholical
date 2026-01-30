@@ -1,4 +1,4 @@
-name: Update README and Pacman Graph
+name: Update README, Pacman Graph, and Stats Card
 
 on:
   schedule:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
@@ -24,6 +24,14 @@ jobs:
             cyteon/markscribe \
             -write README.md templates/readme.tpl
 
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate pacman contribution graphs
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -31,13 +39,12 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "Markscribe Bot"
+          git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
-          # Only commit if there are changes
           if ! git diff --quiet; then
-            git add .
-            git commit -m "Update README and Pacman graph"
+            git add README.md profile/*.svg **/*.svg
+            git commit -m "Update README, stats card, and Pacman graph"
             git push origin main
           else
             echo "No changes to commit"
