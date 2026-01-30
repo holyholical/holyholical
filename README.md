@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C++ and C<br>🎯 Goals: Software Developer<br>🎲 Fun fact: I use Arch btw</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C++ and C<br>🎯 Goals: Software Developer<br>🎲 Fun fact: I use Arch btw<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="10" /></p>
 
 ###
 
