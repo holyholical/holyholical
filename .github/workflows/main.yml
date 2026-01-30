@@ -23,29 +23,6 @@ jobs:
             cyteon/markscribe \
             -write README.md templates/readme.tpl
 
-      - name: Generate GitHub stats locally
-        run: |
-          git clone https://github.com/anuraghazra/github-readme-stats.git
-          cd github-readme-stats
-          npm install
-
-          node src/render.js \
-            --username holyholical \
-            --theme github_dark \
-            --show-icons \
-            --border-color 4C8EDA \
-            --border-radius 12 \
-            > ../profile/stats.svg
-
-          node src/render.js \
-            --username holyholical \
-            --theme github_dark \
-            --layout compact \
-            --border-color 4C8EDA \
-            --border-radius 12 \
-            --top-langs \
-            > ../profile/top-langs.svg
-
       - name: Generate pacman contribution graphs
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -58,7 +35,7 @@ jobs:
 
           if ! git diff --quiet; then
             git add README.md profile/*.svg **/*.svg
-            git commit -m "Update README, stats cards, and Pacman graph"
+            git commit -m "Update README and Pacman graph"
             git push origin main
           fi
         env:
