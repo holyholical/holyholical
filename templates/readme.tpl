@@ -93,7 +93,7 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{
   humanize.OccurredAt
 }})
-{{ -end }}
+{{-end }}
 
 ###
 
