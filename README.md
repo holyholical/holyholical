@@ -164,8 +164,4 @@
       https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph.svg
     "
   />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph.svg"
-  />
 </picture>
