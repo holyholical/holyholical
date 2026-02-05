@@ -90,11 +90,11 @@
 
 <h2>👨‍💻 Check out what I'm currently working on</h2>
 
-- [holyholical/holyholical.dev](https://github.com/holyholical/holyholical.dev) - A personal developer playground and portfolio repository. Showcasing experiments, projects, and code snippets across web development, programming, and tech exploration. Think of it as a space where creativity meets code, with a sprinkle of experimentation and learning. (today)
-- [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (1 day ago)
-- [holyholical/calculator](https://github.com/holyholical/calculator) - A console-based calculator written in C that performs basic arithmetic operations and optional scientific functions. (4 days ago)
-- [holyholical/chat-platform](https://github.com/holyholical/chat-platform) -  (5 days ago)
-- [holyholical/Console-Snake](https://github.com/holyholical/Console-Snake) - A classic Snake-style terminal game where you control the snake to collect fruit, grow in length, and rack up points. Fully playable in the terminal with simple controls and a fun scoring system. (6 days ago)
+- [holyholical/holyholical.dev](https://github.com/holyholical/holyholical.dev) - A personal developer playground and portfolio repository. Showcasing experiments, projects, and code snippets across web development, programming, and tech exploration. Think of it as a space where creativity meets code, with a sprinkle of experimentation and learning. (1 day ago)
+- [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (2 days ago)
+- [holyholical/calculator](https://github.com/holyholical/calculator) - A console-based calculator written in C that performs basic arithmetic operations and optional scientific functions. (5 days ago)
+- [holyholical/chat-platform](https://github.com/holyholical/chat-platform) -  (6 days ago)
+- [holyholical/Console-Snake](https://github.com/holyholical/Console-Snake) - A classic Snake-style terminal game where you control the snake to collect fruit, grow in length, and rack up points. Fully playable in the terminal with simple controls and a fun scoring system. (1 week ago)
 
 ###
 
