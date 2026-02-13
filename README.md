@@ -90,10 +90,10 @@
 
 <h2>👨‍💻 Check out what I'm currently working on</h2>
 
-- [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (6 days ago)
+- [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (1 week ago)
 - [holyholical/holyholical.dev](https://github.com/holyholical/holyholical.dev) - A personal developer playground and portfolio repository. Showcasing experiments, projects, and code snippets across web development, programming, and tech exploration. Think of it as a space where creativity meets code, with a sprinkle of experimentation and learning. (1 week ago)
 - [holyholical/calculator](https://github.com/holyholical/calculator) - A console-based calculator written in C that performs basic arithmetic operations and optional scientific functions. (1 week ago)
-- [holyholical/chat-platform](https://github.com/holyholical/chat-platform) -  (1 week ago)
+- [holyholical/chat-platform](https://github.com/holyholical/chat-platform) -  (2 weeks ago)
 - [holyholical/Console-Snake](https://github.com/holyholical/Console-Snake) - A classic Snake-style terminal game where you control the snake to collect fruit, grow in length, and rack up points. Fully playable in the terminal with simple controls and a fun scoring system. (2 weeks ago)
 
 ###
