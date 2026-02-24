@@ -95,31 +95,6 @@
 
 ###
 
-<h2>🫂 Check out my friend!</h2>
-
-###
-
-<table>
-  <thead>
-    <tr>
-      <th><a href="https://github.com/rewindthetime">rewind</a></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img
-          src="https://avatars.githubusercontent.com/u/251724478"
-          width="64"
-          height="64"
-        />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-###
-
 <h2>📊 My Stats!</h2>
 
 ###
