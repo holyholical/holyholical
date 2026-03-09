@@ -90,7 +90,7 @@
 
 <h2>👨‍💻 Check out what I'm currently working on</h2>
 
-- [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (1 week ago)
+- [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (2 weeks ago)
 - [holyholical/holyholical.dev](https://github.com/holyholical/holyholical.dev) - A personal developer playground and portfolio repository. Showcasing experiments, projects, and code snippets across web development, programming, and tech exploration. Think of it as a space where creativity meets code, with a sprinkle of experimentation and learning. (3 weeks ago)
 - [holyholical/calculator](https://github.com/holyholical/calculator) - A console-based calculator written in C that performs basic arithmetic operations and optional scientific functions. (1 month ago)
 - [holyholical/chat-platform](https://github.com/holyholical/chat-platform) -  (1 month ago)
