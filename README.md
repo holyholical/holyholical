@@ -1,146 +1,58 @@
-<h1 align="left">Hey 👋</h1>
-
-###
-
-<p align="left">
-  🛠️ I build web apps, tools, scripts, and whatever else sounds fun at the time.
+<p align="center">
+  <samp>
+    <a href="https://holyholical.github.io/holyholical.dev/">site</a> &nbsp;·&nbsp;
+    <a href="https://github.com/holyholical?tab=repositories">projects</a> &nbsp;·&nbsp;
+    <a href="https://github.com/holyholical?tab=stars">stars</a>
+  </samp>
 </p>
 
-###
+---
 
-<h2 align="left">🔍 About me</h2>
+I write two kinds of software: small C and C++ things that talk to the machine
+directly, and TypeScript things people actually click on. Most of it starts as
+"I wonder how that works" and ends as a repo.
 
-###
+Right now that means learning C properly. Allocators, pointer lifetimes, and
+finding out what every abstraction I liked in TypeScript actually costs.
 
-<p align="left">
-  ✨ Creating bugs since 2020<br />📚 I'm currently learning C++ and C<br />🎯
-  Goals: Software Developer<br />🎲 Fun fact: I use Arch btw
-</p>
+### Work
 
-###
+| | | |
+|---|---|---|
+| **[pathxio](https://github.com/holyholical/pathxio)** | A safety-first wrapper around Python's filesystem API. Traversal, symlink escapes, and writes outside the sandbox fail loudly instead of quietly succeeding. | `Python` |
+| **[still](https://github.com/holyholical/still)** | Distraction-free notes. Local-first, no account, opens instantly. | `TypeScript` |
+| **[hush](https://github.com/holyholical/hush)** | A minimal DLL injector. Built to understand how process memory and loader internals actually work. | `C++` |
+| **[Console-Snake](https://github.com/holyholical/Console-Snake)** | Snake in a terminal. Real game loop, no dependencies. | `C++` |
+| **[calculator](https://github.com/holyholical/calculator)** | Console calculator in C. Arithmetic and scientific functions, written to get comfortable with parsing input that lies to you. | `C` |
+| **[holyholical.dev](https://github.com/holyholical/holyholical.dev)** | Portfolio, plus a scratchpad for things not big enough to be their own repo. | `TypeScript` |
 
-<h2 align="left">👾 I code with</h2>
+### Stack
 
-###
+**Languages** &nbsp;C · C++ · TypeScript · Python
 
-<div align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    height="40"
-    alt="html5 logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    height="40"
-    alt="css logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    height="40"
-    alt="javascript logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    height="40"
-    alt="typescript logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-    height="40"
-    alt="nextjs logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    height="40"
-    alt="react logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-    height="40"
-    alt="cplusplus logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-    height="40"
-    alt="csharp logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    height="40"
-    alt="python logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-    height="40"
-    alt="c logo"
-  />
-  <img width="12" />
-</div>
+**Building with** &nbsp;CMake · Node · React · Next.js
 
-###
-
-<h2>👨‍💻 Check out what I'm currently working on</h2>
-
-- [holyholical/cucked.cc](https://github.com/holyholical/cucked.cc) -  (2 days ago)
-- [holyholical/skidbin](https://github.com/holyholical/skidbin) -  (5 months ago)
-- [holyholical/holyholical.dev](https://github.com/holyholical/holyholical.dev) - A personal developer playground and portfolio repository. Showcasing experiments, projects, and code snippets across web development, programming, and tech exploration. Think of it as a space where creativity meets code, with a sprinkle of experimentation and learning. (5 months ago)
-- [holyholical/calculator](https://github.com/holyholical/calculator) - A console-based calculator written in C that performs basic arithmetic operations and optional scientific functions. (6 months ago)
-- [holyholical/chat-platform](https://github.com/holyholical/chat-platform) -  (6 months ago)
-
-###
-
-<h2>📊 My Stats!</h2>
-
-###
-
-<!-- Alternative to the old api without langs-->
-<img
-  src="https://helio-github-stats.vercel.app/api?username=holyholical&custom_title=holyholical+GitHub+Stats&theme=github_dark&title_color=2f80ed&text_color=ffffff&icon_color=4c71f2&ring_color=2f80ed&border_color=4c8eda&hide_border=false&locale=en&border_radius=12&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short"
-/>
-
-<!-- Api for this is currently broken
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api?username=holyholical&theme=github_dark&show_icons=true&border_color=4C8EDA&border_radius=12"
-  alt="holyholical GitHub stats"
-/>
-
-###
-
-
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=holyholical&theme=github_dark&layout=compact&border_color=4C8EDA&border_radius=12"
-  alt="holyholical top languages"
-/>
--->
-
-###
+---
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph-dark.svg
-    "
+    srcset="https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph.svg
-    "
+    srcset="https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph.svg"
   />
   <img
-    alt="pacman contribution graph"
+    alt="contribution graph"
     src="https://raw.githubusercontent.com/holyholical/holyholical/output/pacman-contribution-graph.svg"
   />
 </picture>
+
+<!--
+Stats card is deliberately off. It renders "Total Stars: 0" and a low rank,
+which reads worse than showing nothing. Turn it back on once the numbers
+are worth showing:
+
+<img src="https://helio-github-stats.vercel.app/api?username=holyholical&custom_title=holyholical&theme=github_dark&title_color=2f80ed&text_color=ffffff&icon_color=4c71f2&ring_color=2f80ed&border_color=4c8eda&hide_border=false&border_radius=12&card_width=466&hide_rank=true&show_icons=true&include_all_commits=true&hide=stars&line_height=25&text_bold=true&number_format=short" />
+-->
