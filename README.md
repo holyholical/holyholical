@@ -16,7 +16,7 @@ Right now that means learning C properly. Allocators, pointer lifetimes, and
 finding out what every abstraction I liked in TypeScript actually costs.
 
 ### Work
-|||
+| | | |
 | **[pathxio](https://github.com/holyholical/pathxio)** | A safety-first wrapper around Python's filesystem API. Traversal, symlink escapes, and writes outside the sandbox fail loudly instead of quietly succeeding. | `Python` |
 | **[still](https://github.com/holyholical/still)** | Distraction-free notes. Local-first, no account, opens instantly. | `TypeScript` |
 | **[hush](https://github.com/holyholical/hush)** | A minimal DLL injector. Built to understand how process memory and loader internals actually work. | `C++` |
